@@ -1,0 +1,100 @@
+Config Vars
+ProxySite Required
+反代一个网站，例如：mirror.umd.edu，不填写表示使用本地静态网页文件。
+Share_Path Required
+Share path, /share233/index.html查看订阅链接及二维码
+/share23eer
+2001:41d0:203:698:1234:1234:1067:0001
+VER Required
+Xray版本，默认latest安装最新版本，可以去https://github.com/XTLS/Xray-core/releases选择版本 （例如：1.2.2)
+Vless_Path Required
+Path路径，默认/s233,为了安全你也可以使用uuid替换s233，/不能少。如果开启反代，不要与反代网站存在的uri相同
+/sdfeg
+
+Vless_UUID Required
+Vless uuid（http://www.uuid.online/在线生成）
+
+a0c6c01d-0b69-4b9c-bb0e-1cf70d3b0e4f
+Vmess_Path Required
+Path路径，默认/s244,为了安全你也可以使用uuid替换s244，/不能少。如果开启反代，不要与反代网站存在的uri相同
+
+/se4vry5ty
+Vmess_UUID Required
+Vmess uuid（http://www.uuid.online/在线生成）
+e000b455-2a32-4929-b3e7-7b230dec2b6d
+https://dfasdegh.herokuapp.com/
+ 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/yufyyud /gost-heroku)  
+
+f8014c0e-71af-41c6-8906-05845234c02a
+chacha20-ietf-poly1305
+sdfstghre.herokuapp.com/ 
+客户端下载：https://github.com/XTLS/Xray-core/releases
+* 代理协议：vless 或 vmess
+* 地址：appname.herokuapp.com
+* 端口：443
+* 默认UUID：8f91b6a0-e8ee-11ea-adc1-0242ac120002
+* 加密：none
+* 传输协议：ws
+* 伪装类型：none
+* 路径：/8f91b6a0-e8ee-11ea-adc1-0242ac120002-vless // 默认vless使用/$uuid-vless，vmess使用/$uuid-vmess
+* 底层传输安全：tls
+搭建好的gost:
+dfgerjhtubgh.herokuapp.com
+rrrgg565
+chacha20
+
+fdgdrf23
+sdfeghrhr.herokuapp.com
+ 
+sdf2whtjk
+srehtree.herokuapp.com
+
+sadfvjie.herokuapp.com/
+87e37082-7b9d-4097-a06b-af7501470f3a
+
+改了一下VPS的dns64速度都起来了。：
+mv /etc /resolv .conf /etc /resolv .conf.bak && echo -e "nameserver 8.8.8.8 \nnameserver 2001:67c:2b0::4\nnameserver 2001:67c:2b0::6\nnameserver 2a01:4f8: ::213" > 2d08 : /etc/resolv.conf
+改DNS64的参考网站：https://nat64.xyz/
+参考对话：@qinghuan1987   https://nat64.xyz/ 
+nat64.xyz 
+公共 NAT64 服务 - nat64.xyz 
+公共可用的 NAT64 服务列表。 
+去这里选 
+选了咋改 
+/etc /resolv .conf 
+编辑这个就选 
+VPS改NDS64么？ 
+对 
+好勒
+正在使用看的网站：
+更多指令与详细使用说明:  https://xiaomai.docs.wmlabs.net/manual 
+免费日本域名申请：https://cart.onamae.com/register/order
+http://skysinternet.com/
+https://iweec.com/search/hax/
+https://www.euserv.com/en/register.php
+https://my.freenom.com/clientarea.php?action=domains
+https://v2.gost.run/configuration/
+容器网站：https://www.koyeb.com/docs/api
+https://ide.goorm.io/
+
+https://stackshare.io/heroku-postgres/alternatives
+https://ping.openadmintools.com/
+https://whoer.net/zh#
+https://blog3g.com/category/technology/
+https://blog3g.com/heroku-ends-free-offer-company-also-announces-it-will-purge-inactive-accounts-due-to-continued-abuse/
+https://zelikk.blogspot.com/2022/08/v2ray-caddy-v2-cloudflare-wildcards-domain-certificate-15year.html
+VPS搭建脚本：2022.8.20 warp-go 一键脚本 v1.0.3 
+Menu + shortcuts for various usage scenarios 
+菜单 + 快捷 方式，适合各种使用场景 
+
+wget -N https://raw.githubusercontent.com/fscarmen/warp/main/warp-go.sh && bash warp-go.sh [option] [lisence]
+
+WARP 各大一键脚本
+
+fscarmen 一键脚本:
+ - 首次运行 wget -N https://raw.githubusercontent.com/fscarmen/warp/main/menu.sh && bash menu.sh
+ - 日常维护 warp
+P3TERX 一键脚本:
+ - 首次运行 bash <(curl -fsSL git.io/warp.sh) menu
+ - 日常维护 bash warp.sh
