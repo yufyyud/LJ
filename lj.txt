@@ -1,2 +1,3 @@
 dHJvamFuLWdvOi8vZDMwY2Q1ZDAtNDhhOS0xMWVkLTkzMjYtMTIzOWQwMjU1MjcyQDE3Mi42NC4xNTcuMTU3OjQ0Mz9ob3N0PXRyb2phbjEudWRwZ3cuY29tJnBhdGg9JTJGaG93ZHkmc25pPXRyb2phbjEudWRwZ3cuY29tJnR5cGU9d3MK
 trojan-go://d30cd5d0-48a9-11ed-9326-1239d0255272@172.64.157.157:443?host=trojan1.udpgw.com&path=%2Fhowdy&sni=trojan1.udpgw.com&type=ws
+vless://a3ad0987-ddbe-478c-865d-156f9002f9cb@198.41.209.40:443?headerType=ws&host=kjunkh.tk&path=%2Flneirnws&security=tls&sni=kjunkh.tk&type=ws#kjunkh.tk_VLESS_WS
